@@ -1,0 +1,25 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: hsl(315, 96%, 19%);
+}
+.quem-somos {
+    background-color: hsl(315, 88%, 50%);
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros {
+    background-color: hsl(318, 91%, 35%);
+}
+.lorem {
+    text-align: justify;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
